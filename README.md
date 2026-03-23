@@ -10,7 +10,7 @@
 
 ## 📖 Project Overview
 
-This project focuses on analyzing TrendKart’s e-commerce sales data using Microsoft Excel. The analysis aims to uncover key sales trends, customer behavior, and performance metrics through an interactive dashboard.
+This project focuses on analyzing TrendKart’s e-commerce sales data consisting of 31,050 records using Microsoft Excel. The analysis aims to uncover key sales trends, customer behavior, and performance metrics through an interactive dashboard.
 
 ---
 
