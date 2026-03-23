@@ -73,12 +73,6 @@ TrendKart wants to understand its sales performance and customer trends to impro
 
 ---
 
-## 📷 Dashboard
-
-![Dashboard](Dashboard/dashboard_preview.png)
-
----
-
 ## 📂 Project Structure
 
 * **Data/** → Raw dataset
